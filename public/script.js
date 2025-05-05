@@ -6,12 +6,14 @@ listarAlunos();
 async function listarAlunos() {
     const url = "http://localhost:3000/alunos";
 
+
     let resposta = await fetch(url);
     console.log(resposta);
 
     let alunosJS = await resposta.json();
-    console.log(alunosJS);
-    console.log(alunosJS[3].nome);
+    // apenas para testar
+    //console.log(alunosJS);
+    //console.log(alunosJS[3].nome);
 
     //identificar a lista que quero preencher
     const listaalunos = document.getElementById("listaalunos");
