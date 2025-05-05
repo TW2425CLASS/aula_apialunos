@@ -1,0 +1,14 @@
+body {
+    background-color: lightskyblue;
+}
+
+#listaalunos li {
+    display: block;
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+    border-color: blue;
+}
+#listaalunos li span {
+    display: inline-block;
+    width : 400px;
+}

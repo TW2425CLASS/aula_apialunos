@@ -1,0 +1,86 @@
+{
+  "alunos": [
+    {
+      "nome": "Francisca",
+      "cursoid": 3,
+      "idade": 21,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "Bruno",
+      "apelido": "Costa",
+      "cursoid": 2
+    },
+    {
+      "id": "3",
+      "nome": "Carla",
+      "apelido": "Ferreira",
+      "cursoid": 3
+    },
+    {
+      "id": "4",
+      "nome": "David",
+      "apelido": "Pereira",
+      "cursoid": 4
+    },
+    {
+      "id": "5",
+      "nome": "Eduarda",
+      "apelido": "Martins",
+      "cursoid": 5
+    },
+    {
+      "id": "6",
+      "nome": "Fábio",
+      "apelido": "Rodrigues",
+      "cursoid": 1
+    },
+    {
+      "id": "8",
+      "nome": "Henrique",
+      "apelido": "Lima",
+      "cursoid": 3
+    },
+    {
+      "id": "9",
+      "nome": "Inês",
+      "apelido": "Sousa",
+      "cursoid": 4
+    },
+    {
+      "id": "10",
+      "nome": "João",
+      "apelido": "Vieira",
+      "cursoid": 5
+    },
+    {
+      "id": "1fa2",
+      "nome": "Tomás",
+      "apelido": "Carrinhodemão",
+      "cursoID": 103
+    }
+  ],
+  "cursos": [
+    {
+      "id": "1",
+      "nome": "Engenharia Informática"
+    },
+    {
+      "id": "2",
+      "nome": "Engenharia Eletrotécnica"
+    },
+    {
+      "id": "3",
+      "nome": "Engemharia da Computação Gráfica e Multimédia"
+    },
+    {
+      "id": "4",
+      "nome": "Engenharia Mecânica"
+    },
+    {
+      "id": "5",
+      "nome": "Design de Produto"
+    }
+  ]
+}
